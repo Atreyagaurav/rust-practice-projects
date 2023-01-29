@@ -1,0 +1,11 @@
+[package]
+name = "summary"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboard = "3.2.0"
+notify-rust = "4.7.0"
+rust-bert = "0.20.0"
